@@ -22,7 +22,7 @@
 [![Website](https://img.shields.io/badge/thinkbigtechnology.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thinkbigtechnology.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/think-big-technology-nj/)
 [![Instagram](https://img.shields.io/badge/@thinkbigtechnology-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thinkbigtechnology/)
-[![Email](https://img.shields.io/badge/info@thinkbigtechnology.com-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@thinkbigtechnology.com)
+[![Email](https://img.shields.io/badge/connect@thinkbigtechnology.com-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@thinkbigtechnology.com)
 
 </div>
 
@@ -128,7 +128,7 @@ Field operations platform for high-stakes industries — built mobile-first.
 **You have a problem worth solving.** We have the team to ship it.
 
 → Tell us what you're building: **[thinkbigtechnology.com](https://thinkbigtechnology.com)**
-→ Or drop us a line: **info@thinkbigtechnology.com**
+→ Or drop us a line: **connect@thinkbigtechnology.com**
 
 ---
 
@@ -136,7 +136,7 @@ Field operations platform for high-stakes industries — built mobile-first.
 
 We're always looking for engineers, designers, and product thinkers who like the words *"non-negotiable"* and *"production-grade."*
 
-→ Reach out via **[LinkedIn](https://www.linkedin.com/company/think-big-technology-nj/)** or email **info@thinkbigtechnology.com** with the subject `BUILD WITH US`.
+→ Reach out via **[LinkedIn](https://www.linkedin.com/company/think-big-technology-nj/)** or email **connect@thinkbigtechnology.com** with the subject `BUILD WITH US`.
 
 ---
 
